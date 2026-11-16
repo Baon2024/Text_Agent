@@ -1,0 +1,6 @@
+twilio
+fastapi
+uvicorn
+websockets
+pydantic
+python-multipart

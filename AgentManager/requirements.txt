@@ -1,0 +1,7 @@
+websockets
+requests
+python-dotenv
+pydantic
+firecrawl
+google-genai
+python-frontmatter

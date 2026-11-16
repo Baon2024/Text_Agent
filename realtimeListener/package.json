@@ -1,0 +1,17 @@
+{
+  "name": "realtimelistener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "dotenv": "^17.4.2",
+    "ws": "^8.21.3"
+  }
+}

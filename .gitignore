@@ -1,0 +1,7 @@
+# Environment files at any directory depth
+.env
+.env.*
+
+# Dependencies and Python bytecode caches at any directory depth
+node_modules/
+__pycache__/
